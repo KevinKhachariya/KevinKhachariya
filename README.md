@@ -8,4 +8,4 @@
 <li>JavaScript</li>
 </ul>
 
-<p>I would love to contribute to your projects with the experience I gain!!</p>
+<p>I would love to contribute to your projects.</p>
