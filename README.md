@@ -2,10 +2,7 @@
 
 <h2>Goals:</h2>
 <h3>
-<ul>
-  To add more projects in my portfolio.
-  <li> (23/10/21 = 23/11/21) : 5 proper front-end projects</li>
-</ul>
+
   </h3>
 
 <h2>A Front-end Developer.</h2>
