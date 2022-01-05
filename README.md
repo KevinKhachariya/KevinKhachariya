@@ -1,6 +1,6 @@
 <h1>4th Year Computer Engineering Undergraduate</h1>
 
-<h2> Currently Intern on ReactJS </h2>
+<h2> Currently doing internship on ReactJS </h2>
 <h3><a href="https://www.sattvabit.com/">@Sattvabit</a><h3>
 
 
