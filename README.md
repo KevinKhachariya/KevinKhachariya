@@ -1,18 +1,11 @@
 <h1>4th Year Computer Engineering Undergraduate</h1>
 
-<h2> Currently doing internship on ReactJS </h2>
-<h3><a href="https://www.sattvabit.com/">@Sattvabit</a><h3>
+<h2> Currently an employee <a href="https://www.sattvabit.com/">@Sattvabit</a> </h2>
 
 
 
-<h2>Front End Enthusiast!</h2>
+<h2>Full Stack!</h2>
 
 <h3>You can find all my projects at a single place. <a href="https://kevinkhachariya.github.io">Here!</a> </h3>
-  <h3>I am currently learning front-end basics <a href="https://www.freecodecamp.org/kevin_khachariya">@freeCodeCamp</a>. </h3>
-<ul>
-<li>HTML5</li>
-<li>CSS3</li>
-<li>JavaScript</li>
-</ul>
-
+  <h3>I am currently tinkering, learning and mastering MERN stack by contributing in real projects.</a>. </h3>
 <p>I would love to contribute to your projects.</p>
