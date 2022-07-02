@@ -1,6 +1,6 @@
 <h1>4th Year Computer Engineering Undergraduate</h1>
 
-<h2> Currently an employee <a href="https://www.sattvabit.com/">@Sattvabit</a> </h2>
+<h2> Currently an employee <a href="https://www.sattvabit.com/" target="_blank" >@Sattvabit</a> </h2>
 
 
 
