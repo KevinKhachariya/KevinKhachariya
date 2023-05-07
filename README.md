@@ -7,8 +7,8 @@
 <h1> Current Progress </h1>
 <ul>
   <li> Currently doing <a href="https://www.udemy.com/course/beginning-c-plus-plus-programming">this<a/> paid certification course on Udemy to learn C++ </li>
-  <li> Learning Flutter from Youtube and Documentation (switching from React Native to Flutter). </li>
-  <li> Leveling up React with Vercel's NextJS v13.4 </li>
+  <li> Learning Flutter from <a href="https://youtu.be/VPvVD8t02U8">Youtube course by freeCodeCamp </a> and Documentation (switching from React Native to Flutter). </li>
+  <li> Leveling up React with <a href="https://nextjs.org/blog/next-13-4">Vercel's NextJS v13.4</a> </li>
 </ul>
 
-<p> End goals for 2023: Expertise in React, Production grade competence with C++ and Flutter. </p> 
+<p> End goals for 2023: Expertise in React, Production grade competence with C++ and migration from React Native to Flutter.</p>
