@@ -1,11 +1,13 @@
-<h1>Computer Engineer</h1>
-<h5>A Bachelor of Computer Engineering</h5>
+<h1>A Bachelor of Computer Engineering.</h1>
+<h2>Portfolio</h2>
+<ul>
+  <li><a href="https://www.kevinkhachariya.com">https://www.kevinkhachariya.com</a></li>
+ </ul>
 
 <h2> Professional Experience </h2>
 <ul>
   <li>Software Engineer <a href="https://www.sattvabit.com/" target="_blank" >@Sattvabit</a> January 2022 - May 2023</li>
  </ul>
-<h2> </h2>
 <p>Fun fact: <a href="https://www.sattvabit.com">The Sattvabit website</a> was created by me using <a href="https://nextjs.org/">NextJS</a> and <a href="https://nextjs.org/docs/basic-features/data-fetching/incremental-static-regeneration">Incremental Static Regeneration</a>.</p>
 
 <h1> Current Progress </h1>
