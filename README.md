@@ -13,7 +13,7 @@
   <li>Software Engineer <a href="https://www.sattvabit.com/" target="_blank" >@Sattvabit</a> ( Employee: January 2022 - May 2023 )</li>
   <ul>
     <ul>
-      <li> Fun fact: -The Sattvabit website was created by me using <a href="https://nextjs.org/">NextJS</a> and <a href="https://nextjs.org/docs/basic-features/data-fetching/incremental-static-regeneration">Incremental Static Regeneration</a>.</li>
+      <li> Fun fact: The Sattvabit website was created by me using <a href="https://nextjs.org/">NextJS</a> and <a href="https://nextjs.org/docs/basic-features/data-fetching/incremental-static-regeneration">Incremental Static Regeneration</a>.</li>
     </ul> 
   </ul>
 </ul>
