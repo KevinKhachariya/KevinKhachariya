@@ -26,4 +26,4 @@
   <li> Improving Data Structures and Algorithm fundamentals everyday. </li>
 </ul>
 
-<p> End goals for 2024: OOP with C++ and ability to utilize C++ to crack technical interviews for web application or other domains. </p>
+<p> End goals for 2024: OOP with C++ and ability to utilize C++ to crack technical interviews for web application development or other domains. </p>
