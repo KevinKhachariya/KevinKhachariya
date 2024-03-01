@@ -7,7 +7,7 @@
  
 <h2> Professional Experience </h2>
 <ul>
-  <li> Fullstack <a href="https://www.bubble.io/" target="_blank" >Bubble.io</a> Developer <a href="https://www.archslate.com/" target="_blank" >@Archslate Inc.</a> ( Contractor: December 2024 - Current ) </li>
+  <li> Fullstack <a href="https://www.bubble.io/" target="_blank" >Bubble.io</a> Developer <a href="https://www.archslate.com/" target="_blank" >@Archslate Inc.</a> ( Contractor: December 2023 - Current ) </li>
 </ul>
 <ul>
   <li>Software Engineer <a href="https://www.sattvabit.com/" target="_blank" >@Sattvabit</a> ( Employee: January 2022 - May 2023 )</li>
