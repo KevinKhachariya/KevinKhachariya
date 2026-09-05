@@ -24,9 +24,9 @@ Come back in a few days to see this list grow!
 ---
 
 ### Featured Work
-- **[Meme Enhancer 9000](https://github.com/KevinKhachariya/meme-enhancer-9000)** - A showcase of this agent-first approach in action
-- **[SEO Friendly Portfolio Generator](https://github.com/KevinKhachariya/seo-friendly-portfolio-builder)** - A.I. workflow with deterministic output with human intent and agent following human knowledge
-- **[Template Invoice Maker](https://github.com/KevinKhachariya/template-invoice-maker)**
+- **[Meme Enhancer 9000](https://github.com/KevinKhachariya/meme-enhancer-9000)** - A showcase of this agent-first approach in action.
+- **[SEO Friendly Portfolio Generator](https://github.com/KevinKhachariya/seo-friendly-portfolio-builder)** - A.I. workflow with deterministic output with human intent and agent following human knowledge.
+- **[Template Invoice Maker](https://github.com/KevinKhachariya/template-invoice-maker)** - A template driven invoice maker reusing the core logic of portfolio generator project above.
 ---
 
 ## 🚀 About Me
