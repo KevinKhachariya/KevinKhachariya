@@ -26,17 +26,21 @@ I help businesses turn ideas into working software — from local-first AI workf
 
 <div align="center">
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+[![localLLM](https://img.shields.io/badge/localLLM-412991?style=for-the-badge&logo=deepseek&logoColor=white)](https://www.deepseek.com/)
+[![cloudLLM](https://img.shields.io/badge/cloudLLM-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+[![System Design](https://img.shields.io/badge/System%20Design-FF6B6B?style=for-the-badge&logo=microservices&logoColor=white)]()
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)](https://svelte.dev/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
-[![DeepSeek](https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge&logo=deepseek&logoColor=white)](https://www.deepseek.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![SQLite WAL](https://img.shields.io/badge/SQLite%20WAL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)](https://www.fastify.io/)
+[![VPS](https://img.shields.io/badge/Virtual%20Private%20Server-0066CC?style=for-the-badge&logo=linux&logoColor=white)]()
+[![SSL](https://img.shields.io/badge/SSL%20Certificate-2D8659?style=for-the-badge&logo=letsencrypt&logoColor=white)](https://letsencrypt.org/)
+[![Telemetry](https://img.shields.io/badge/Telemetry-1F618D?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
+[![Analytics](https://img.shields.io/badge/Analytics-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://analytics.google.com/)
+[![Data Retention](https://img.shields.io/badge/Data%20Retention-708090?style=for-the-badge&logo=database&logoColor=white)]()
 
 </div>
 
@@ -45,9 +49,12 @@ I help businesses turn ideas into working software — from local-first AI workf
 ## What I Do
 
 - Build AI-powered products and automation tools
-- Create reliable local-first LLM workflows
-- Develop e-commerce and web experiences
-- Build data extraction and scraping systems
+- Create reliable local-first & cloud LLM workflows
+- Develop production-grade full-stack systems with React, Vite, TypeScript
+- Design scalable backend architectures with Node.js & Fastify
+- Implement privacy-first data storage with SQLite WAL
+- Deploy and manage VPS infrastructure with SSL & security
+- Integrate telemetry, analytics, and data retention compliance
 - Turn complex ideas into practical, production-ready systems
 
 ---
@@ -56,16 +63,17 @@ I help businesses turn ideas into working software — from local-first AI workf
 
 I focus on shipping useful, reliable software that solves real business problems.
 
-- Clear product thinking
-- Practical AI implementation
-- Full-stack execution
-- Built for real-world usage, not hype
+- Clear product thinking & system design expertise
+- Practical AI implementation (local & cloud)
+- Full-stack execution from frontend to backend infrastructure
+- Built for real-world usage, compliance, and scale
+- Privacy-conscious data handling & telemetry
 
 ---
 
 ## Hire / Contract
 
-Available for product engineering, AI automation, web app development, scraping workflows, and technical consulting.
+Available for product engineering, AI automation, full-stack development, system architecture, and technical consulting.
 
 Portfolio: https://kevinkhachariya.qzz.io  
 GitHub: https://github.com/KevinKhachariya
