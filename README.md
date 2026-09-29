@@ -8,13 +8,13 @@ I help businesses turn ideas into working software — from local-first AI workf
 
 ## Featured Work
 
-1. **User Verification Triage using localLLM**  
+1. **[User Verification Triage using localLLM](https://kevinkhachariya.qzz.io)**  
    Private, local-first verification workflow using LLMs to triage and validate users without depending on external services.
 
 2. **[jewellerybuyonline.com](https://jewellerybuyonline.com)**  
    E-commerce storefront and digital retail experience built for conversion, product presentation, and online sales.
 
-3. **Headless Scrape Automation**  
+3. **[Headless Scrape Automation](https://kevinkhachariya.qzz.io)**  
    Browser-driven automation for extracting and structuring data from dynamic websites at scale.
 
 4. **[GIF Editor](https://github.com/KevinKhachariya/meme-enhancer-9000)**  
