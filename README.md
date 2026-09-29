@@ -11,13 +11,13 @@ I help businesses turn ideas into working software — from local-first AI workf
 1. **User Verification Triage using localLLM**  
    Private, local-first verification workflow using LLMs to triage and validate users without depending on external services.
 
-2. **jewellerybuyonline.com**  
+2. **[jewellerybuyonline.com](https://jewellerybuyonline.com)**  
    E-commerce storefront and digital retail experience built for conversion, product presentation, and online sales.
 
 3. **Headless Scrape Automation**  
    Browser-driven automation for extracting and structuring data from dynamic websites at scale.
 
-4. **GIF Editor**  
+4. **[GIF Editor](https://github.com/KevinKhachariya/meme-enhancer-9000)**  
    Browser-based creative tooling for fast media iteration, animation tweaks, and practical content workflows.
 
 ---
