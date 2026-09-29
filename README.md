@@ -9,10 +9,10 @@ I help businesses turn ideas into working software — from local-first AI workf
 ## Featured Work
 
 1. **[User Verification Triage using localLLM](https://kevinkhachariya.qzz.io)**  
-   Private, local-first verification workflow using LLMs to triage and validate users without depending on external services.
+   Private, local-first verification workflow using LLMs to triage and validate users without relying on external services.
 
 2. **[jewellerybuyonline.com](https://jewellerybuyonline.com)**  
-   E-commerce storefront and digital retail experience built for conversion, product presentation, and online sales.
+   E-commerce storefront and digital retail experience designed for conversion, product presentation, and online sales.
 
 3. **[Headless Scrape Automation](https://kevinkhachariya.qzz.io)**  
    Browser-driven automation for extracting and structuring data from dynamic websites at scale.
@@ -49,12 +49,12 @@ I help businesses turn ideas into working software — from local-first AI workf
 ## What I Do
 
 - Build AI-powered products and automation tools
-- Create reliable local-first & cloud LLM workflows
-- Develop production-grade full-stack systems with React, Vite, TypeScript
-- Design scalable backend architectures with Node.js & Fastify
+- Create reliable local-first and cloud LLM workflows
+- Develop production-grade full-stack systems with React, Vite, and TypeScript
+- Design scalable backend architectures with Node.js and Fastify
 - Implement privacy-first data storage with SQLite WAL
-- Deploy and manage VPS infrastructure with SSL & security
-- Integrate telemetry, analytics, and data retention compliance
+- Deploy and manage VPS infrastructure with SSL and secure systems
+- Integrate telemetry, analytics, and data retention workflows
 - Turn complex ideas into practical, production-ready systems
 
 ---
@@ -63,11 +63,11 @@ I help businesses turn ideas into working software — from local-first AI workf
 
 I focus on shipping useful, reliable software that solves real business problems.
 
-- Clear product thinking & system design expertise
-- Practical AI implementation (local & cloud)
+- Clear product thinking and system design expertise
+- Practical AI implementation across local and cloud environments
 - Full-stack execution from frontend to backend infrastructure
 - Built for real-world usage, compliance, and scale
-- Privacy-conscious data handling & telemetry
+- Privacy-conscious data handling and observability
 
 ---
 
